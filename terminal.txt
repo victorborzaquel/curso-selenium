@@ -1,0 +1,4 @@
+ps aux | grep geckodriver
+ps aux | grep chromedriver
+
+killall geckodriver
